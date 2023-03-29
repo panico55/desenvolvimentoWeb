@@ -1,0 +1,148 @@
+html {
+    height: 100vh;
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    
+    display:block;
+    flex-direction: column;
+    font-family: Arial, Helvetica, sans-serif,'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0px;
+    background-color: black;
+    background-image: url('fotos/img3.png');
+    background-position:auto;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+header {
+    display:block;
+    background-color: rgb(255, 255, 255);
+    padding: 0px;
+       background-repeat: no-repeat;
+       background-image: url('fotos/logo1.jpg');
+       top: 0;
+       margin-top: 0;
+       height: 100px;
+      
+    }
+    .cabeçalho{
+        height: 0px;
+        width: 50px;
+        
+    }
+
+div#formulario {
+
+    text-align: right;
+    top:
+    }
+div#log { 
+        text-align: r;
+        top:0px;  
+    }
+ul {
+    list-style: none;
+    padding: 0;
+}
+li {
+    padding: 0 20px;
+    font-size:15px ;
+}
+li :hover  {
+    cursor: pointer;
+    opacity:0.8;
+    background-color:rgb(4, 196, 52) ;
+    color: aliceblue;
+    border-radius: 5px;
+    border: 
+}
+nav , ul {
+    display:flex;
+    flex-direction: row;
+    
+}
+nav{
+    
+    background-color: rgb(8, 8, 8);
+    justify-content: space-between;
+    padding: 0px;
+    
+    
+    }
+    a{
+        text-decoration: none;
+    }
+p {
+    color: rgb(255, 253, 253);
+    opacity: 0.9;
+   font-style:initial;
+   font-weight: bold;
+   text-align: center;
+}
+   
+h1{
+    text-align: center;
+}
+
+
+article{
+    text-align: center;
+    height: 620px;
+}
+  
+   
+
+
+
+
+footer{
+    
+}
+.rodape{
+    position: block;
+    background-color: rgb(255, 255, 255);
+    padding: 0px;
+    
+    width: 100%;
+    height: 68px;
+    
+    
+    }
+
+form{
+ text-align: right;
+ color:#000
+}
+.container .form-image img{
+    border-radius: 5px;
+    width: 100%;
+    height: 150%;
+    top: 00px;
+    position: relative;
+    opacity: .7;
+    background-image: url(fotos/cadastro.png);
+}
+.for1{
+    position: relative;
+    margin: 0;
+    top: 0;
+}
+/*div#f1{
+    background-image: url('fotos/img1.png');
+   display:inline-block;
+    border: 2px solid rgb(12, 11, 11);
+    border-radius: 15px;
+    width: 627.3px;
+    height: 500px;
+}
+div#f2{
+    background-image: url('fotos/img2.png');
+   display:inline-block;
+    border: 2px solid rgb(12, 11, 11);
+    border-radius: 15px;
+    width: 627.3px;
+    height: 500px;
+}*/
