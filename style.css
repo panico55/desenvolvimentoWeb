@@ -4,7 +4,8 @@ html {
     padding: 0px;
 }
 body {
-    
+     min-width: 300px;
+    max-width: 100%;
     display:block;
     flex-direction: column;
     font-family: Arial, Helvetica, sans-serif,'Times New Roman', Times, serif;
