@@ -4,7 +4,8 @@ html {
     padding: 0px;
 }
 body {
-     min-width: auto;
+    margin: auto;
+     min-width: 320px;
     max-width: 100%;
     display:block;
     flex-direction: column;
